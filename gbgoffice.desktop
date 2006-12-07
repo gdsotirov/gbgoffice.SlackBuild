@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GBGOffice
+Name[bg]=ГБГОфис
+GenericName=BG Office Assistant
+GenericName[bg]=БГ Офис помощник
+Comment=BG Office Assistant
+Comment[bg]=БГ Офис помощник
+Type=Application
+Exec=gbgoffice
+Icon=gbgoffice
+Categories=Application;Office;
+Terminal=false

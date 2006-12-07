@@ -1,0 +1,11 @@
+gbgoffice: BG Office Assistant (GTK version)
+gbgoffice:
+gbgoffice: gbgoffice is GTK2 (gtkmm) version of the popular package
+gbgoffice: kbgoffice. Gbgoffice is developed under Arch Linux and is tested
+gbgoffice: for correct work under Slackware, Debian, Fedora, Mandrake, Gentoo
+gbgoffice: and FreeBSD.
+gbgoffice:
+gbgoffice:
+gbgoffice:
+gbgoffice: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+gbgoffice:
